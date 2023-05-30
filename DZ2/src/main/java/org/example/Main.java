@@ -17,9 +17,6 @@ public class Main {
     private static int fieldSizeX;
     private static int fieldSizeY;
 
-//    public static final int countTotalMoves = fieldSizeX*fieldSizeY;
-//    public static int movesTotal;
-
     private static void initialize() {
         fieldSizeX = 3;
         fieldSizeY = 3;
