@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="DZ3" />
         <module name="DZ2" />
+        <module name="DZ5" />
         <module name="DZ4" />
       </profile>
     </annotationProcessing>
